@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luis Henrique</h1>
+<h1 align="center">Hi, I'm Luis</h1>
 <h3 align="center">I am an ADS (Systems Analysis and Development) student currently learning and building my skills in software development, with a strong interest in creating practical and innovative solutions.</h3>
 
-- 🌱 I’m currently learning about **frameworks**
+- I’m currently learning about **frameworks**
 
 - 📫 How to reach me **luisvboas@outlook.com**
 
